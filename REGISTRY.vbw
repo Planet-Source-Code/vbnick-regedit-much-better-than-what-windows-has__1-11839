@@ -1,0 +1,8 @@
+frmRegistry = 66, 66, 463, 388, , 22, 22, 419, 344, C
+General_Library = 88, 88, 485, 410, 
+ODBC_Management = 110, 110, 507, 432, 
+ODBC_Viewing = 132, 132, 529, 454, 
+Registry_API_Declares = 154, 154, 551, 476, 
+Registry_Viewing = 22, 22, 419, 344, 
+Registry_Management = 0, 0, 397, 322, 
+WinAPI = 44, 44, 441, 366, 
